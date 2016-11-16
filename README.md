@@ -1,15 +1,17 @@
 # Field Experiment Analysis Program for Python
 **Authors:** <a href=mailto:gturkeaflcio.org>Grace Turke</a>  
 **Last Code Update:** 20160803
+
 **Current Version:** v1.0
-**Draws from [Chris Kennedy's](https://github.com/ck37) [rcteval\_ado Stata module](https://github.com/ck37/rcteval_ado) for evaluating randomized controlled trials 
+
+Builds on ideas from [Chris Kennedy's](https://github.com/ck37) rcteval\_ado [Stata module](https://github.com/ck37/rcteval_ado) for evaluating randomized controlled trials
 
 
-## NOTE: This is stilla work in progress and is not ready for use
+### NOTE: This is still a work in progress and is not ready for use
 
 ---
 ## Project Description  
-Base syntax in python for analyzing randomized controlled trials in Python using logistic regression. Intended for tests with individual-level units of analysis.
+Base syntax for analyzing randomized controlled trials in Python using logistic regression. Intended for tests with individual-level units of analysis.
 
 ---
 ## To-Do's
